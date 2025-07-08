@@ -1,3 +1,5 @@
 Test on git first time.
 Test on git second time.
 Test on git third time.
+
+I want to test writing a good commit message.
